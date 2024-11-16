@@ -1,5 +1,3 @@
 [
-  { "title": "Item 1", "url": "https://example.com/1" },
-  { "title": "Item 2", "url": "https://example.com/2" },
-  { "title": "Item 3", "url": "https://example.com/3" }
+  { "title": "قنوات عربية", "url": "https://mg-app.github.io/tv/arabic_channels.json" },
 ]
