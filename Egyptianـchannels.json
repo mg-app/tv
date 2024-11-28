@@ -1,0 +1,195 @@
+[
+{"channels": "cima tv","image":"https://www.elahmad.com/tv/mobiletv/images/cima.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_cima/tracks-v1a1/mono.m3u8?token=3ed05a9dd5d0f4c49ab66e2e407319a0e45af948-587ac885ff42b5e22136830ef3e4ba62-1732546485-1732535685"]},
+
+
+{"channels": "قناة صفا","image":"https://www.elahmad.com/tv/mobiletv/images/safatv.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_safatv/tracks-v1a1/mono.m3u8?token=54873d123d51e0b125ca9dfa25e11baa99b2f11e-c355b17fef51a4230ca156c1c900e8a3-1732546663-1732535863"]},
+
+
+{"channels": "قناة الناس","image":"https://www.elahmad.com/tv/mobiletv/images/alnas_tv.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_elnastv/tracks-v1a1/mono.m3u8?token=115a179c5f26af56c4d02e325178625b6d6dc363-e954fe47c193eeed9ea3cea18bfd5a33-1732546899-1732536099"]},
+
+
+{"channels": "قناة أزهري","image":"https://www.elahmad.com/tv/mobiletv/images/azharitv.jpg",
+"server":["https://edge66.magictvbox.com/liveApple/azhari/tracks-v1a1/mono.m3u8"]},
+
+
+{"channels": "الرحمة","image":"https://www.elahmad.com/tv/mobiletv/images/alrahma_tv.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_alrahma/tracks-v1a1/mono.m3u8?token=5ca4650c97e135d31ca0a2ede36ee256ff3b9135-ed4c63dc5802ee6af9d0083de1389420-1732547110-1732536310"]},
+
+
+
+{"channels": "الشرق المصرية","image":"https://www.elahmad.com/tv/mobiletv/images/elsharqtv.jpg",
+"server":["https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8"]},
+
+
+{"channels": "الأولي المصرية","image":"https://www.elahmad.com/tv/mobiletv/images/almasriya_aloula.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_channel1_eg/tracks-v1a1/mono.m3u8?token=1f1c44ada4c6b87c210bb68166417516b48dd026-4dfeb48fa76bd7f3b0c41ec91eb36af9-1732547344-1732536544"]},
+
+
+{"channels": "المصرية","image":"https://www.elahmad.com/tv/mobiletv/images/esc_egypt.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_almasriyah/tracks-v1a1/mono.m3u8?token=4bb79d7b20b15337eb8ebcd9250739c5e885077b-29f43d5afff469b41902beafb48e1efb-1732547508-1732536708"]},
+
+
+{"channels": "المصرية الثانية","image":"https://www.elahmad.com/tv/mobiletv/images/esc_althanya.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_al_thaniya_eg/tracks-v1a1/mono.m3u8?token=9bc080094d72b99b0de2103368bd089b73d714c1-dc13c3bb6316e4245a1a003b05a8ffa0-1732547626-1732536826"]},
+
+
+{"channels": "النهار","image":"https://www.elahmad.com/tv/mobiletv/images/alnaharlive.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_nahar_tv/tracks-v1a1/mono.m3u8?token=63fc41c2313b542a50d8fd71bfde851d22ededfd-d291a4f61e8972844d399f3be925dc12-1732547837-1732537037"]},
+
+
+{"channels": "النهار دراما","image":"https://www.elahmad.com/tv/mobiletv/images/alnaharlive_drama.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_nahar_drama/tracks-v1a1/mono.m3u8?token=abbfd182967440b789aca42e765e9f77f02c6a76-5fa785ef27b1d3f2d18f49b03a6202da-1732547924-1732537124"]},
+
+
+{"channels": "صدي البلد","image":"https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_tv.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_elbaladtv/tracks-v1a1/mono.m3u8?token=eba943cb2a0d7d9e75913c87c9f77d4191aa989c-ceab2926d922166db1061b474a782d61-1732548024-1732537224"]},
+
+
+{"channels": "صدي البلد2","image":"https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_2.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_elbalad_2/tracks-v1a1/mono.m3u8?token=24c122ce1a1548ec48a09af31994f7464ac66568-fdfa73ff9d70200c50daf633efbe4ad3-1732548111-1732537311"]},
+
+
+{"channels": "صدي البلد دراما","image":"https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_drama.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_elbalad_drama/tracks-v1a1/mono.m3u8?token=70bd30180b13d902cd37cee320fef4d2f8b5434c-10aa797a7710b6391c07b80e76f536d3-1732548204-1732537404"]},
+
+
+{"channels": "ناساهرة والناس","image":"https://www.elahmad.com/tv/mobiletv/images/alkaherawalnas.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_alkaherawalnas1/tracks-v1a1/mono.m3u8?token=48c944adaf5ff88cf5c56eb1968f190a887706a2-a69eddc41260c851e4f86af9a05526dd-1732548327-1732537527"]},
+
+
+{"channels": "القاهرة والناس2","image":"https://www.elahmad.com/tv/mobiletv/images/alkaherawalnas2.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_alkaherawalnas2/tracks-v1a1/mono.m3u8?token=6acb0b03f87f2cf4b17be739247cee8cce546ff3-47fbe7310912b4e975758cf294b0296d-1732548424-1732537624"]},
+
+
+{"channels": "dmc","image":"https://www.elahmad.com/tv/mobiletv/images/dmc_live.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_dmc/tracks-v1a1/mono.m3u8?token=d6676735586c09f0128283e248b5028e3753f7e3-8a3d6376ca3c88f614af1bc45cca5e2e-1732548709-1732537909"]},
+
+
+{"channels": "dmc drama","image":"https://www.elahmad.com/tv/mobiletv/images/dmc_drama.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_dmc_drama/tracks-v1a1/mono.m3u8?token=c2bbb2a9f4480282e16eae5ddba1602f5811dac3-775bb95ee5b10f81df07fd7dce543243-1732548795-1732537995"]},
+
+
+{"channels": "on","image":"https://www.elahmad.com/tv/mobiletv/images/ontveg.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_ontv/tracks-v1a1/mono.m3u8?token=d8fd22bd9a0d18ff899bcbb33b8b90452ea8e612-7b694e82afae5c5b3a5563e6702e8b6c-1732548890-1732538090"]},
+
+
+{"channels": "on drama","image":"https://www.elahmad.com/tv/mobiletv/images/on_drama.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_on_drama/tracks-v1a1/mono.m3u8?token=d016b526698e772c6a26b981eb573edabde8bda8-27be470e4e773b5b8e25bd1238af39e5-1732549032-1732538232"]},
+
+
+{"channels": "on sport","image":"https://www.elahmad.com/tv/mobiletv/images/on_sport.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=68ce51d13598f4ce1366476d6d0703a792961660-f352399bbb0c474f2f89731f65117532-1732549251-1732538451"]},
+
+
+{"channels": "on time sport","image":"https://www.elahmad.com/tv/mobiletv/images/on_time_sports1.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=9445cb3f131f6a1d4f1d559b1ab89195fbf4451d-a28cbbedd7cc0ecc4ae05c4ef496d04c-1732549299-1732538499"]},
+
+
+{"channels": "ماسبيرو زمان","image":"https://www.elahmad.com/tv/mobiletv/images/maspero-zaman-eg.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_MasperoZaman/tracks-v1a1/mono.m3u8?token=b0d475682aa5e00b6f62f6192e1b5c34e00ee6e4-eebe51fe6773dd66ba1d907a7539778c-1732549404-1732538604"]},
+
+
+{"channels": "الحدث اليوم","image":"https://www.elahmad.com/tv/mobiletv/images/alhadath_alyoum.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_alhadath_alyoum/tracks-v1a1/mono.m3u8?token=70c96c4a42d7887ce27769933d8b7a94a359ec53-d4a18fa6479e230717e64bda5280bdb8-1732549487-1732538687"]},
+
+
+{"channels": "cbc","image":"https://www.elahmad.com/tv/mobiletv/images/cbc.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_cbc_tv/tracks-v1a1/mono.m3u8?token=34272152d638df8a900505e87e4074a84e56042f-4981b665a6eb7af9a265492cb802684f-1732549781-1732538981"]},
+
+
+{"channels": "cbc drama","image":"https://www.elahmad.com/tv/mobiletv/images/CBCDrama.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_cbc_drama/tracks-v1a1/mono.m3u8?token=f0bd7a0c4c6352be4d455cea1c870c54874d1fb3-a66a11ecb6b62f6ca12ab9605d484e47-1732549884-1732539084"]},
+
+
+{"channels": "cbc extra news","image":"https://www.elahmad.com/tv/mobiletv/images/CBCeXtra.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_cbc_news/tracks-v1a1/mono.m3u8?token=69d2e5f51d12468c14881e9d707460ad5b389890-d8c5098562e5b495e7fbae6bbbefcb7e-1732549975-1732539175"]},
+
+
+{"channels": "cbc sofra","image":"https://www.elahmad.com/tv/mobiletv/images/cbc_sofra.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_cbc_sofra/tracks-v1a1/mono.m3u8?token=4f1ad5b1e781013341ff5c4c8ac251cfffca2463-7bdd3f4aa70e62034437cc7e18fbf284-1732550113-1732539313"]},
+
+
+{"channels": "ALahly","image":"https://www.elahmad.com/tv/mobiletv/images/alahlytv.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_alahly_tv/tracks-v1a1/mono.m3u8?token=aa562777538d4f849a81f8268b07456bfe00c336-6cedd796b2b370080641fea60abe66d7-1732550326-1732539526"]},
+
+
+{"channels": "zamzlek","image":"https://www.elahmad.com/tv/mobiletv/images/zamalek.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_zamalek/tracks-v1a1/mono.m3u8?token=8abd3f3b35f2b472b72aa9098a1b19c2d71611a8-2e2fb2c7af6cb7b3508bbf7cb320a5ed-1732550379-1732539579"]},
+
+
+{"channels": "alhayat","image":"https://www.elahmad.com/tv/mobiletv/images/alhayat_tv.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_alhayat_eg/tracks-v1a1/mono.m3u8?token=de463562e04ddf2771cadb89bbc67c9caaa22081-6509dbc320bbf53744547c6d1bf35371-1732550487-1732539687"]},
+
+
+{"channels": "alhayat drama","image":"https://www.elahmad.com/tv/mobiletv/images/alhayat_drama.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_alhayat_drama/tracks-v1a1/mono.m3u8?token=2046acf6743e2404284333c75c7cdc03a05aa722-ca2d5e80b7f992d4e9d8f57f139c151a-1732550564-1732539764"]},
+
+
+{"channels": "elmehwar","image":"https://www.elahmad.com/tv/mobiletv/images/elmehwartv.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_elmehwar/tracks-v1a1/mono.m3u8?token=5f7812d7892e386fe2618cce742ae364c5df34e0-78ac8d62275f00e7c2dc0f24e4c8643e-1732550664-1732539864"]},
+
+
+{"channels": "nile cinema","image":"https://www.elahmad.com/tv/mobiletv/images/nilecinema.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_nile_cinema/tracks-v1a1/mono.m3u8?token=a0d3ed988875df8a7470b80d7cd5e62465c15274-a4fdca5b90da2550bd8dc4e24c56a495-1732550755-1732539955"]},
+
+
+{"channels": "nile drama","image":"https://www.elahmad.com/tv/mobiletv/images/niledrama.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_nile_drama/tracks-v1a1/mono.m3u8?token=40c81670c3f4ae3de0399e9c45e5c6dd8741f58a-43aec4626263b50c21675b27c749133f-1732550846-1732540046"]},
+
+
+{"channels": "nile comedy","image":"https://www.elahmad.com/tv/mobiletv/images/nilecomedy.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_nile_comedy/tracks-v1a1/mono.m3u8?token=d70ecbcdea1f237582b6afdae5d1daab668d1d63-03617e6a1fb0c4002b987e1f47903846-1732550954-1732540154"]},
+
+
+{"channels": "nile family","image":"https://www.elahmad.com/tv/mobiletv/images/nilefamily.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_nile_family/tracks-v1a1/mono.m3u8?token=811b7bd864c92bc9bcdbfc6fb937ee5cd1327c12-35e2c47abd3659ee33fe0c612a59e84f-1732551063-1732540263"]},
+
+
+{"channels": "nile life","image":"https://www.elahmad.com/tv/mobiletv/images/nilelife.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_nile_life/tracks-v1a1/mono.m3u8?token=205a0fd7492223db388435024037e45a6795241e-15c38c5b2871ad84f014ad9eae302a4e-1732551165-1732540365"]},
+
+
+{"channels": "nile sport","image":"https://www.elahmad.com/tv/mobiletv/images/nilesport.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_nile_sport/tracks-v1a1/mono.m3u8?token=dfa4e5e68bcb37d87389d71fcc663da8db6c9c8c-12b337dc0bb291991a42144c6de1302d-1732551375-1732540575"]},
+
+
+{"channels": "nile news","image":"https://www.elahmad.com/tv/mobiletv/images/nilenews.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_nile_news/tracks-v1a1/mono.m3u8?token=392c894c6b8abf2aa03083b0162040b8bc2f0f2f-6fe27f82c53b9c30ab0493e51e1fedfd-1732551503-1732540703"]},
+
+
+{"channels": "قناة الغد العربي","image":"https://www.elahmad.com/tv/mobiletv/images/alghad_alarab.jpg",
+"server":["https://ru2.elahmad.com/tv712_www.elahmad.com_alghad_tv/tracks-v1a1/mono.m3u8?token=a4ed7d388da9581532495fbb85f0f7504117f69d-d61fb86e4f27cad2b1e4770143d3e4cf-1732551658-1732540858"]},
+
+
+{"channels": "panorama drama","image":"https://www.elahmad.com/tv/mobiletv/images/panorama_drama.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_panorama_drama/tracks-v1a1/mono.m3u8?token=ac2074bf2b01a9473577b0baeb8bc019a6dab206-42ce08beff238371692f93fa48f3109d-1732551764-1732540964"]},
+
+
+
+{"channels": "panorama drama2","image":"https://www.elahmad.com/tv/mobiletv/images/panorama_drama2.jpg",
+"server":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"]},
+
+
+
+{"channels": "panorama film","image":"https://www.elahmad.com/tv/mobiletv/images/panorama_film.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_panorama_film/tracks-v1a1/mono.m3u8?token=603044b82a51fd478440e956384f7725901659b3-87c2ace75ab94a535019150849e6e238-1732552044-1732541244"]},
+
+
+
+
+{"channels": "panorama food","image":"https://www.elahmad.com/tv/mobiletv/images/panorama_food.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_panorama_food/tracks-v1a1/mono.m3u8?token=ddcdf32042d8a92e2566f39e2460bc2cb037107d-3fa1407fa9f409adae621dc8f95f2c3b-1732552113-1732541313"]},
+
+
+{"channels": "ten tv","image":"https://www.elahmad.com/tv/mobiletv/images/tentv.jpg",
+"server":["https://ru1.elahmad.com/tv712_www.elahmad.com_tentv/tracks-v1a1/mono.m3u8?token=2cae85da2f0000a2110fa8a00bc4979b8599b1b8-e84e61a1e2741487a201587268836683-1732552227-1732541427"]},
+
+
+{"channels": "alqahera news","image":"https://www.elahmad.com/tv/mobiletv/images/alqahera_news.jpg",
+"server":["https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8"]}
+
+
+]
