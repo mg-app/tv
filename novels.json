@@ -1,15 +1,7 @@
 {
   "novels_categories": [
       
-           {"category": "افضل واشهر الروايات","jsonName": "https://appsapple.github.io/novelsData/TheBestNovels.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"},
-          {"category": "علم نفس","jsonName": "https://appsapple.github.io/novelsData/psychology.json","image":"https://archive.org/download/20240427_20240427_1619/children%27s%20book%20day/%D8%B9%D9%84%D9%85%D9%80%D9%80%D9%86%D9%81%D8%B3.png"},
-              {"category": "تسويق وادارة الاعمال","jsonName": "https://appsapple.github.io/novelsData/Business.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/3.png"},
-          {"category": "كتب اسلامية","jsonName": "https://appsapple.github.io/novelsData/islam.json","image":"https://archive.org/download/20240427_20240427_1619/children%27s%20book%20day/%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D9%87.png"},
-          {"category": "روايات جديدة","jsonName": "https://appsapple.github.io/novelsData/new-novesl.json","image": "https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/4.png"},
-          {"category": "كتب شعر","jsonName": "https://appsapple.github.io/novelsData/sha3r.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/5.png"},
-          {"category": "الاكثر قراءة","jsonName": "https://appsapple.github.io/novelsData/MostRead.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/6.png"},
-          {"category": "رعب","jsonName": "https://appsapple.github.io/novelsData/Ro3b.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/1.png"},
-          {"category": "روايات رومانسية","jsonName": "https://appsapple.github.io/novelsData/romancyyy.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/7.png"}
-    
+           {"category": "افضل واشهر الروايات","jsonName": "https://mg-app.github.io/tv/test.json","image":"https://archive.org/download/6_20240620/%D8%B5%D9%88%D8%B1%20%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA/2.png"}
+         
    ]
 }
