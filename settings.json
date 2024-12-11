@@ -8,7 +8,9 @@
             "can_close":"yes",
             "unityGameId_ios":"5321614",
             "unityGameId_android":"5675663",
-             "ApplovinKey":"n9f4l69ptTlo_MonLqMntNCWmyN97SrZe1lXvEnW05gkvNZfCaLT_KxvT81Mh1z9C1VpLOT3dEhx5OpDNXXL4o"
+            "ApplovinKey":"n9f4l69ptTlo_MonLqMntNCWmyN97SrZe1lXvEnW05gkvNZfCaLT_KxvT81Mh1z9C1VpLOT3dEhx5OpDNXXL4o",
+            "force_ads":"yes",
+
            }
    ]
 }
