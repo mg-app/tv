@@ -1,6 +1,6 @@
 {
   "setting_data": [ 
-           {"force_update": "no",
+           {"force_update": "yes",
             "update_url": "https://mg-app.github.io/tv/test.json",
             "title_main":"beeh",
             "title":"mohamed beeh",
