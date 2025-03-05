@@ -21,7 +21,7 @@
 
 
 {"channels": "الشرق المصرية","image":"https://www.elahmad.com/tv/mobiletv/images/elsharqtv.jpg",
-"server":["https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8"]},
+"server":["https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8","https://edge66.magictvbox.com/liveApple/azhari/tracks-v1a1/mono.m3u8"]},
 
 
 {"channels": "الأولي المصرية","image":"https://www.elahmad.com/tv/mobiletv/images/almasriya_aloula.jpg",
