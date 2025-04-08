@@ -1,7 +1,7 @@
 [
  
     { "title": "قنوات مصرية", "url": "https://mg-app.github.io/tv/Egyptianـchannels.json" },
-    { "title": "قنوات رياضية", "url": "https://mg-app.github.io/tv/sportsChannels.json" }
+    { "title": "قنوات رياضية", "url": "https://mg-app.github.io/flutter_series_showtime/sportsChannels.json" }
 
 
 
