@@ -1,6 +1,8 @@
 [
  
-    { "title": "قنوات مصرية", "url": "https://mg-app.github.io/tv/Egyptianـchannels.json" }
+    { "title": "قنوات مصرية", "url": "https://mg-app.github.io/tv/Egyptianـchannels.json" },
+    { "title": "قنوات رياضية", "url": "https://mg-app.github.io/tv/sportsChannels.json" }
+
 
 
 ]
